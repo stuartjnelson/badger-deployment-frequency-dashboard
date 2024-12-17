@@ -25,12 +25,16 @@ export class GitLogReader {
       console.log(`Reading Git log from: ${this.repoPath}`);
       const log = await this.git.log(); 
 
-      return log.all.map(commit => ({
-        hash: commit.hash,
-        date: commit.date,
-        message: commit.message,
-        author: commit.author_name,
-      }));
+      const COMMIT_PREFIXES = /^(feat|fix|chore):/;
+
+      return log.all
+        .filter(({message}) => COMMIT_PREFIXES.test(message))
+        .map(({hash, date, message, author_name: author}) => ({
+          hash,
+          date,
+          message,
+          author,
+        }));
     } catch (error) {
       console.error('Error reading Git log:', error);
       throw error;
