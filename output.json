@@ -1,0 +1,2132 @@
+[
+  {
+    "hash": "99247dc95b1f24d3aba90c0edd137f8b343ca031",
+    "date": "2024-11-05T21:14:58Z",
+    "message": "Merge pull request #31 from stuartjnelson/stuartjnelson-patch-1",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ac27cbfd47075c30f6c833ad3109e591df927f2b",
+    "date": "2024-11-05T21:14:38Z",
+    "message": "Update becoming-a-better-manager-the-power-of-pair-programming.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "64035fd4903f381405ead974c1132e262fc10ace",
+    "date": "2024-11-05T21:11:37Z",
+    "message": "Update becoming-a-better-manager-the-power-of-pair-programming.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b7057ef0f50dd95f76a5d28a9527cf3cb13704fe",
+    "date": "2024-11-03T22:10:02Z",
+    "message": "Merge pull request #30 from stuartjnelson:feat/the-power-of-pairing",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "be3b727d2d5d8fd7c193a983d154de4ce894bead",
+    "date": "2024-11-03T22:09:37Z",
+    "message": "fix: renaming post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b6ef47b16d5c0174e1377b9cdbdfcd4e9417a782",
+    "date": "2024-11-03T22:00:58Z",
+    "message": "docs: final proof",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8239b1000520c62f55ef552c687219b12b8b856a",
+    "date": "2024-11-03T21:58:13Z",
+    "message": "docs: proofed nesxt ectio",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cdc10cc9227ef377cb394874cb64e44bfb67e222",
+    "date": "2024-11-03T21:57:09Z",
+    "message": "docs: prooign next section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9f9b3cbfc18d6aa8e827b491e6e0a48b8f0ac40a",
+    "date": "2024-11-03T21:52:45Z",
+    "message": "docs: proofed 1st section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "59ea89c5080ac9956b7a5d73b6244941b171be5f",
+    "date": "2024-11-03T21:50:17Z",
+    "message": "fix: improving the post template",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4580d018a0e663c5a4ea3af505705b773d552114",
+    "date": "2024-11-03T21:49:18Z",
+    "message": "docs: updating roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e2ac3dfdf3bf1139a72370517632973ea2847e5d",
+    "date": "2024-11-03T21:49:03Z",
+    "message": "fix: adding imgs",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e40a08fda2834e5f7be519739f5d3ace44d7e92f",
+    "date": "2024-11-03T21:41:39Z",
+    "message": "fix: correcting meta data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cad3d7d4bb9205cfecf2904c114135f06603991a",
+    "date": "2024-11-03T21:34:18Z",
+    "message": "docs: first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9fd36a0a662e3cecb038eafc99bf7f00fb3412e6",
+    "date": "2024-11-03T15:03:41Z",
+    "message": "docs: working on first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9a635460ce376ee451e085c983086dbd45b0a3fc",
+    "date": "2024-10-28T12:15:44Z",
+    "message": "Merge pull request #19 from stuartjnelson/docs/three-biggest-mistakes-as-a-manager",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c1a40bbf295381d12137384f5cde9f8c51b3c77e",
+    "date": "2024-10-28T12:13:57Z",
+    "message": "docs: final draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "07e341a16d43fc4b25d054f42aa73a903a3a43fc",
+    "date": "2024-10-28T12:04:35Z",
+    "message": "docs: proofed 3rd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2586016d10636f09bd03286bba96b0497e9f5c51",
+    "date": "2024-10-28T12:02:35Z",
+    "message": "docs: proofed 1st section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fcc75e64e9e7375393cba63a662d8e164554b0bf",
+    "date": "2024-10-28T11:58:40Z",
+    "message": "docs: first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "720496ac171a95f6f740b49b92b5b962ee47a0c3",
+    "date": "2024-10-28T11:43:17Z",
+    "message": "docs: corecting merge I botched",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f7a2a97e2cd9bc3b28ff569837413b8c66cd2a46",
+    "date": "2024-10-28T11:38:12Z",
+    "message": "docs: small tweak",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3cd5f8e975376a5157b6f6286556027b310247b1",
+    "date": "2024-09-29T09:44:54+01:00",
+    "message": "Update becoming-a-better-manager-three-biggest-mistakes-as-an-engineering-manager.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "285543452c9bd1bdb2c1f02b4c684e422669a7b9",
+    "date": "2024-08-29T13:48:41Z",
+    "message": "docs: updating readme",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "35be250e614ff1937b5007c56f68dca89122e900",
+    "date": "2024-08-29T13:18:09Z",
+    "message": "fix: images for post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dd076476cf1276eee8f03fad974ca82f4aa45f31",
+    "date": "2024-08-29T13:18:00Z",
+    "message": "docs: post draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7d87699c5c1463295f1018823bdabea4de2150c3",
+    "date": "2024-08-29T13:03:31Z",
+    "message": "fix: updating title and file name",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ffc7a805f64ca033000797de3b8f0da1ec3af426",
+    "date": "2024-08-29T13:01:45Z",
+    "message": "docs: updating readme roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "997936f28800a9e39919565364cdc5a6f625e6ff",
+    "date": "2024-10-20T21:36:05+01:00",
+    "message": "Merge pull request #29 from stuartjnelson/feat/equality-vs-equity",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fc0a7e2e3a550d2844028c159d560f29c69d70c6",
+    "date": "2024-10-20T20:35:19Z",
+    "message": "fix: style tweak for feature img caption",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "313b4a61081110d651049035559371e811759df7",
+    "date": "2024-10-20T20:30:46Z",
+    "message": "fix: updating frontmatter data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "702d7e1c1737b9e7212d63ae22dd2ebc24a25cbe",
+    "date": "2024-10-20T20:30:26Z",
+    "message": "fix: renaming files for updated title",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9ba4fc661f58241bb7f2f2aa94824847c30a10d4",
+    "date": "2024-10-20T20:29:30Z",
+    "message": "fix: final draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f3948737e8758cac31c83ae72af1823f43aa7664",
+    "date": "2024-10-20T20:20:30Z",
+    "message": "fix: proofed rest of the article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "687e2113f195281cec9b61113016ac5daec7775d",
+    "date": "2024-10-20T20:12:32Z",
+    "message": "fix: proofed 2nd seciton",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f88f33d82e8abc468eb796ad6fe48d725643dbde",
+    "date": "2024-10-20T20:10:09Z",
+    "message": "fix: proofed first section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "129daa6e3a5a2405c4ce529a4e45f263d45296dd",
+    "date": "2024-10-20T20:09:49Z",
+    "message": "fix: adding caption for featured img",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "06203cea0d0318bf196afe9e6047df90180b7069",
+    "date": "2024-10-20T20:09:32Z",
+    "message": "fix: adding figure to post template",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "020e67e3006c4744deea1aa29476f1eae0490430",
+    "date": "2024-10-20T20:09:17Z",
+    "message": "fix: adding stlying for figure in longformcopy",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9a2871c866c49b3d0e8076671054eb8428b11cb3",
+    "date": "2024-10-20T20:09:02Z",
+    "message": "fix: correcting sass",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "45ce1f1753d8dd980cef20d6f2b09a1bfaefd7f4",
+    "date": "2024-10-20T20:08:46Z",
+    "message": "fix: adding new handlebar helpers",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6d1ee73d5ebeebeddb101c0a12f18ce4e88f0d69",
+    "date": "2024-10-20T15:44:53Z",
+    "message": "fix: adding images",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ed6066e0f641fe883bbe8f6694dea5e12159623b",
+    "date": "2024-10-20T13:31:41+01:00",
+    "message": "Update becoming-a-better-manager-equality-vs-equity.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6d7829888458917e490075d93aa1e1407148044d",
+    "date": "2024-10-19T11:44:41Z",
+    "message": "wip: updating first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "71a6f244031b60b3b4ad8e2f0343f17639ebb759",
+    "date": "2024-10-19T11:26:37Z",
+    "message": "wip: creating new article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f5857ce4c6bf954b9791b74d9a9e1892abb8e0a9",
+    "date": "2024-10-19T11:26:28Z",
+    "message": "fix: adding markdownit for citation",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f3fd5b75d73b3313faa90b94dd1bd6553356b78f",
+    "date": "2024-09-29T20:36:20+01:00",
+    "message": "Merge pull request #28 from stuartjnelson/fix/featured-img-dimensions",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1e133afd353b778bab1ea87213f7b1c5e8d34538",
+    "date": "2024-09-29T19:33:18Z",
+    "message": "fix: correcting img file names",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a3add221b142a357c3602816f3cb87386dc9c4d9",
+    "date": "2024-09-29T19:29:32Z",
+    "message": "fix: correting path to featuredImg",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8c303df5ba67e8c4a6c87c83a9747f0847491511",
+    "date": "2024-09-29T19:26:44Z",
+    "message": "docs: updating post content for new layout",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b436ce56c9c7b0a1e263fa0b6b88d999367e7a7a",
+    "date": "2024-09-29T19:26:30Z",
+    "message": "fix: updating template to make posts DRYer",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c8341ae8e6e7ba14909c29fd1ad9fa3266e0f38e",
+    "date": "2024-09-29T19:40:19+01:00",
+    "message": "Merge pull request #27 from stuartjnelson/stuartjnelson-patch-1",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2ac656181b77eb598b078c16dbaf428d2a526a1b",
+    "date": "2024-09-29T18:33:34Z",
+    "message": "fix: sorting img and meta data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ea16d4d63adb93a4ad654cd68574abb7be207623",
+    "date": "2024-09-29T16:46:33Z",
+    "message": "fix: updating naming",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f3b3d2946a3c7918748ea9abe37d3e13bfe2e538",
+    "date": "2024-09-29T17:24:27+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership correctinf meat data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fedab121915ed183760c94fdf7976b0b7efe27f0",
+    "date": "2024-09-29T17:23:16+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership proof read all article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1f3571ead21c4273417868a3f1f0b96c57c89d68",
+    "date": "2024-09-29T17:20:11+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership proofed 4 and 5th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "66085e60b658346f078eddbf5e9069aafceeedc4",
+    "date": "2024-09-29T17:16:31+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership second 3 proofed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d12552256d6f029277f901c750e1fb15c575a4ab",
+    "date": "2024-09-29T17:14:22+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership excerpt and intro",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9b0f0f6d60585664aafa85efc4c5ff7399877287",
+    "date": "2024-09-29T17:08:31+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "580bd7d215396b4c20180e92c7915b5204229f5f",
+    "date": "2024-09-29T12:52:28+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "09d08629c082327c07baf5d3aa6ea460be1266a9",
+    "date": "2024-09-29T10:43:51+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b03a59d696656b7d17fe6a107198753152047857",
+    "date": "2024-09-29T10:39:53+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e73930668c01f379de4399e0757b6009a43ea9b1",
+    "date": "2024-09-29T09:56:41+01:00",
+    "message": "Update becoming-a-better-manager-action-centered-leadership",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "20358e7543ca149101f679986027bad1cefc7a2d",
+    "date": "2024-09-29T09:53:09+01:00",
+    "message": "Update articles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fabf44e349dd0e68f0b8c0addec797f39e890d30",
+    "date": "2024-09-22T16:06:41+01:00",
+    "message": "Merge pull request #23 from stuartjnelson/docs/how-i-use-ai-to-help-me-blog-as-a-dyslexic-software-engineer-2",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5c2299bcede4d99aa1e5885861ab56b3ab470757",
+    "date": "2024-09-22T15:04:05Z",
+    "message": "docs: interlinking",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f4a4ee016781cb962d47f3810eaa543926d6417b",
+    "date": "2024-09-22T14:58:32Z",
+    "message": "docs: adding excerpt",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e309f0bd84581e3e3d42cc7ffe39e5120cb6e9a6",
+    "date": "2024-09-22T14:52:53Z",
+    "message": "docs: final draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5fd7e2e53dd346b2f4b7cd78e8a8642a955c0b09",
+    "date": "2024-09-22T14:48:42Z",
+    "message": "docs: proofed 3rd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cfe0ec925a0422fb160fdc196ebcc6f1ba33c9b2",
+    "date": "2024-09-22T14:47:23Z",
+    "message": "docs: proofed 2nd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c19be53476f9955369f838388da63a5e44da1753",
+    "date": "2024-09-22T14:45:41Z",
+    "message": "fix: renaming post and im files",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "902080ef731ef76018f7e90b04d48a57f9619962",
+    "date": "2024-09-22T14:43:29Z",
+    "message": "docs: proof first section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "34a84ddb805e0c6155464d73a0dea024e1834dd1",
+    "date": "2024-09-17T19:37:42Z",
+    "message": "fix: security vulnrabilities",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b8a9a639bee9d95cabdfa93c65c0e5f4f33e3495",
+    "date": "2024-09-17T19:37:35Z",
+    "message": "docs: updating post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "46e3e213e586bb078fc1d00941557650343440d2",
+    "date": "2024-09-14T15:36:37Z",
+    "message": "docs: adding some content to post from other post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ce405cf5ec5b87291099db5a640620fa8a4a9ee8",
+    "date": "2024-09-17T20:25:17+01:00",
+    "message": "Merge pull request #26 from stuartjnelson:fix/updating-a11y-workflow-article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3d9bc9e15c9672ea05c345c9d64b937d9d4d5e03",
+    "date": "2024-09-17T19:24:39Z",
+    "message": "fix: tweaking article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3288c274fb99eb34e813edc0e814bccb4580748a",
+    "date": "2024-09-14T22:31:13+01:00",
+    "message": "Merge pull request #25 from stuartjnelson/fix/ing-file-name",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cdc1be2a6b7fbaa0ff44a122b1caabc60b8a7ae3",
+    "date": "2024-09-14T22:30:39+01:00",
+    "message": "Add files via upload",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d248d2800b1f3a5874c2054943cc9dd925bc1ee0",
+    "date": "2024-09-14T22:30:13+01:00",
+    "message": "Delete assets/img/my-11ty-blog-workflow-how-i-write-and-publish-blog-posts-efficiently--og-img-optimized.jpg",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "50a61b31271e245091fe772e3e6559ce61fdbf67",
+    "date": "2024-09-14T16:39:05+01:00",
+    "message": "Merge pull request #24 from stuartjnelson/fix/typo-in-articles/my-11ty-blog-workflow-how-i-write-and-publish-blog-posts-efficiently-",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8a16b25b7bc65468a970a89884918612a5c49cfb",
+    "date": "2024-09-14T15:38:26Z",
+    "message": "fix: removing typo from h2",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "64268f8ca6406a56b2b31292356235442dae30ba",
+    "date": "2024-09-14T16:32:59+01:00",
+    "message": "Merge pull request #21 from stuartjnelson/docs/as-a-dyslexic-person-how-i-use-ai-to-help-me-blog",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7a1f0f4516ed085ebca562ce816c7c3058084000",
+    "date": "2024-09-14T15:31:58Z",
+    "message": "fix: correcting date",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5ed500cbea6077183a2bf2d5b375a5f4d26bcd4d",
+    "date": "2024-09-14T15:31:22Z",
+    "message": "fix: correcting draft status conditional logic",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a7cb69ff18b354aabb90f33090d099d540796e71",
+    "date": "2024-09-14T15:06:31Z",
+    "message": "fixL updating time in template",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5f0c106012925c60b23808e259cb76b8b4fc05b1",
+    "date": "2024-09-14T15:03:57Z",
+    "message": "docs: first draft of new post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4b367db4d3b1e2c17a012a445fe1a86b4f34fdd0",
+    "date": "2024-09-12T22:00:13Z",
+    "message": "fix: updating ideas",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "958cc731fa49ae445fb4797a0a81c5fd4944954b",
+    "date": "2024-09-12T21:58:21Z",
+    "message": "feat: draft new post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "061097acf4072a1fb601f03328f2e4fb00f5b54e",
+    "date": "2024-09-12T21:58:12Z",
+    "message": "docs: adding useiulf chatgpt prompt",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fa1f84894cbb4bd09e868329b64ef6d4f29ec79e",
+    "date": "2024-08-29T14:30:31Z",
+    "message": "docs: more drafiontg",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4da508dab6cafc1bb5d3726d648153d0ff5934db",
+    "date": "2024-08-29T14:27:36Z",
+    "message": "docs: improving my draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "57eebc119b2bb1e05084e57f1a5fb3daf0e5acc7",
+    "date": "2024-08-29T14:16:22Z",
+    "message": "fix: adding images",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1c7bf4198e41ce1775d374802a678484504ced34",
+    "date": "2024-08-29T14:16:11Z",
+    "message": "docs: very rough first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "462766110f60d2f6534f5c69122409bae939355d",
+    "date": "2024-08-29T13:49:58Z",
+    "message": "docs: updating roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fc7c0bc5bebed349baac5d52146f737a5b5df85b",
+    "date": "2024-08-29T14:46:49+01:00",
+    "message": "Merge pull request #20 from stuartjnelson:fix/small-updates",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fce98f208d478a563739d276d4f4eac57971d72f",
+    "date": "2024-08-29T13:45:26Z",
+    "message": "docs: improving casine of roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9c2a9cd45217dd3734ce5dccfbc9a5695cb2602f",
+    "date": "2024-08-29T13:45:05Z",
+    "message": "docs: updaying roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b48b248567293ae797e3617c2c0e212686c5f9e6",
+    "date": "2024-08-29T13:44:19Z",
+    "message": "docs: creating template for posts",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ebe7caa1a9fbc1d44661a632a12060f07da76ac7",
+    "date": "2024-08-29T13:42:16Z",
+    "message": "fix: adding draft warning to listing post and post arricle",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a0e689ffba99d765529b3fd2d0fb905dc19e624b",
+    "date": "2024-08-29T13:41:47Z",
+    "message": "fix: adding error color",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a23ea0e27d16c9d1145f5b341fddce57fd11aeeb",
+    "date": "2024-08-29T13:41:39Z",
+    "message": "fix: updating draft to only hide on prod",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7e5219cdb4654aa115187546526409fbc702b08e",
+    "date": "2024-08-29T13:21:02Z",
+    "message": "fix: removing holding text",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "029cf711a34a4b1b3b00478203966b10ef5b40ce",
+    "date": "2024-08-29T13:20:38Z",
+    "message": "docs: adding item to roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0ac25d88b9c8691bc2f4c6ca396c2d834eba92d7",
+    "date": "2024-08-29T13:59:37+01:00",
+    "message": "Merge pull request #15 from stuartjnelson/docs/ditching-ga-for-simple-analytics",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "297138d13aef9a0cdfe03497c933c060e3258ba7",
+    "date": "2024-08-29T12:59:18Z",
+    "message": "docs: correcting date",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dd7a690160c58b455fe9c8454f8fe4af6da4bdf1",
+    "date": "2024-08-29T12:55:32Z",
+    "message": "docs: proofed conclusion",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e9884c71def0eda23eef522db7998c9ac837c3f8",
+    "date": "2024-08-29T12:54:11Z",
+    "message": "docs: proofed 5th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "95fec34ae89f5693880f27d16abcded2dc3cdfbe",
+    "date": "2024-08-29T12:52:44Z",
+    "message": "docs: proofed 4th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f647a613a3ff2f6ddd4e0a11f612a602818491c2",
+    "date": "2024-08-29T12:50:16Z",
+    "message": "docs: proofing 3rd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "edc17bc29459dfea1cf8c78061d73a31d72950fc",
+    "date": "2024-08-29T12:48:49Z",
+    "message": "docs: proofed first section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "54e6a99abdd2a6b14d2b4b93873e8c0abec1eee3",
+    "date": "2024-08-28T21:21:02Z",
+    "message": "docs: finished first draft",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6ed548a424130fda76c69458b3d0169efff62253",
+    "date": "2024-08-28T20:55:50Z",
+    "message": "docs: cleaing up markdown table in post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9586366e2c532bd5d9be79e788e92d79378a7862",
+    "date": "2024-08-28T20:55:37Z",
+    "message": "fix: styling markdown table inside long form copy",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d9494948c68797e6e14b3bc5a3adf3aee0204a7a",
+    "date": "2024-08-28T21:40:45+01:00",
+    "message": "Merge pull request #18 from stuartjnelson/stuartjnelson-patch-1",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c7e6f52382429e5acbc4a294ba21d471dd0e099a",
+    "date": "2024-08-28T20:39:49Z",
+    "message": "fix: creating analytics code for ackee",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "120cfe79b823011574584168a56603e0fc6e403b",
+    "date": "2024-08-28T20:39:37Z",
+    "message": "fix: moving ackee tracking into partial",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "80f5eed7ec2779276d4bc382e39a7fe2c7fbfb66",
+    "date": "2024-08-28T13:03:09+01:00",
+    "message": "Update head.hbs",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5f339c232cea710a76a97e4316df883aac4be682",
+    "date": "2024-08-28T12:56:39+01:00",
+    "message": "Update i-want-to-ditch-google-analytics-but-what-for.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1e84b2f349632b549203136ac9c37e4c17beebad",
+    "date": "2024-08-28T12:48:42+01:00",
+    "message": "Update i-want-to-ditch-google-analytics-but-what-for.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4c84eccc1a508d3d5cf1e357c4e82d4316b76692",
+    "date": "2024-08-28T12:43:26+01:00",
+    "message": "Update i-want-to-ditch-google-analytics-but-what-for.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c47e6b536da0bf648ddbadeb5b8a729ec250b2da",
+    "date": "2024-08-26T23:15:34+01:00",
+    "message": "Merge pull request #17 from stuartjnelson/fix/adding-another-analytics-ackee",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a0324d9eb1422d5285ae020313b8a56d714b970e",
+    "date": "2024-08-26T22:13:01Z",
+    "message": "fix: adding ackee",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "913cf68466b3a37908a433afb88a1cfb535b001a",
+    "date": "2024-08-26T22:11:01Z",
+    "message": "docs: adding some more content",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "845952231b8f4f065792cc71050c7eedeeaf3b7d",
+    "date": "2024-08-25T22:31:08Z",
+    "message": "docs: adding img and expert",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a6211cde733aeeb376a60dc8480081171373aa5b",
+    "date": "2024-08-25T22:13:07Z",
+    "message": "docs: removing old pubdate prop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8d830ad6c5a03599cd6b5bdc0787d41e66ae067b",
+    "date": "2024-08-25T20:00:55Z",
+    "message": "Merge remote-tracking branch 'origin/main' into docs/ditching-ga-for-simple-analytics",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0f8490d97e37deaf9baa8de8d993ad2ec9c00948",
+    "date": "2024-08-24T09:34:15+01:00",
+    "message": "Merge pull request #16 from stuartjnelson/stuartjnelson-patch-1",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "bf319c758a3780bf83a174d93b64865b7304218a",
+    "date": "2024-08-24T09:33:55+01:00",
+    "message": "Update becoming-a-better-manager-what-i-learnt-about-my-advice-monster.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e65d2f6b3c6e2e3e5c112fd6b88ea808627e7b9f",
+    "date": "2024-08-21T13:59:33Z",
+    "message": "docs: drafting post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f16840ac8ebc6be4cbd22324bbed449b0df5ed6d",
+    "date": "2024-08-21T13:55:05Z",
+    "message": "docs: adding new tag to post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4fa7cb0e1dc7475c4d742723e03572f9fb947e00",
+    "date": "2024-08-21T13:54:57Z",
+    "message": "docs: starting new post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b074dedee3b02b85abf93c4f645a3e2ecdf05057",
+    "date": "2024-08-21T13:54:46Z",
+    "message": "docs: adding some new todos",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "bbdf098abb85629d1cef19e973bda0a5efa60f88",
+    "date": "2024-08-21T12:22:51+01:00",
+    "message": "Merge pull request #14 from stuartjnelson:fix/date-handling",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e7a31820867c0e2443e118dbd8cf6d2ea6286220",
+    "date": "2024-08-21T11:21:58Z",
+    "message": "fix: removing pubdate from all articles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c2a77856a06eddd5b01ca630d4f2e113700be28d",
+    "date": "2024-08-21T10:53:23Z",
+    "message": "fix: imprpving date handling",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ebaebeef4c013ef95939f4aef13374b4c30611d6",
+    "date": "2024-08-21T11:05:17+01:00",
+    "message": "Merge pull request #13 from stuartjnelson:post/advice-monster",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f3121c57da5ca5ec36f962135d002947587ebf77",
+    "date": "2024-08-21T10:04:13Z",
+    "message": "docs: updating roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b93c0f2f4a5db1828f26c3a95637063ef0633b7e",
+    "date": "2024-08-21T10:03:42Z",
+    "message": "docs: proofing my post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "280f20b8b23402bd855ea5b82ce9199576dca470",
+    "date": "2024-08-21T09:58:59Z",
+    "message": "fix: tweaking styles for 11ty youtube embed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "63184a2a3f2702dc55adfd2f86aa55ce77cefd74",
+    "date": "2024-08-21T09:58:45Z",
+    "message": "docs: adding img for post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dabb49ac10b2140f2a73499f72892db0c07c91cc",
+    "date": "2024-08-21T09:58:32Z",
+    "message": "docs: prooefed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "48cc09da94d403e337daf501e04d1ec176b37299",
+    "date": "2024-08-20T22:31:48+01:00",
+    "message": "Merge pull request #12 from stuartjnelson:fix/motion-smoothing-and-reduced-motion",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3194269cacb401c6dda220543896897ba676754a",
+    "date": "2024-08-20T21:31:20Z",
+    "message": "fix: adding smooth scroll for some users",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1f8b02c449c74d97a01545651862de6bcd33b8f2",
+    "date": "2024-08-20T22:22:37+01:00",
+    "message": "Merge pull request #11 from stuartjnelson:fix/heading-anchor-links",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "26b67325ee956f29ac21a1411516cbe76ed35a4c",
+    "date": "2024-08-20T21:21:24Z",
+    "message": "docs: marking todo as complete",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b5db578551bc439e2293851a33f285a797e11bdd",
+    "date": "2024-08-20T21:17:54Z",
+    "message": "fix: adding heading anchor links",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c7dfe7919fb48cb6a794128db5af3344b8f64a11",
+    "date": "2024-08-20T21:25:07+01:00",
+    "message": "Merge pull request #10 from stuartjnelson/fix/typo-new-article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "57eca78da5ee4f993d4820501e2905e1819ea77f",
+    "date": "2024-08-20T20:24:28Z",
+    "message": "fix: correcting typo",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "16da435edca19a1a541c983f6b7958dcd936ace6",
+    "date": "2024-08-20T21:18:47+01:00",
+    "message": "Merge pull request #9 from stuartjnelson/feat/article-journey-as-line-manager",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a5b49f8a0e64ba02dce909feadfcd60e199bd0a8",
+    "date": "2024-08-20T20:16:39Z",
+    "message": "docs: final proof",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4ab6764d881a7531e1c2d26d098d492204183448",
+    "date": "2024-08-20T19:46:18Z",
+    "message": "fix: adding markdown it abbriviations",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "eb732d251b7ff8ed29112558467ba5fc47130005",
+    "date": "2024-08-20T19:41:47Z",
+    "message": "docs: more overall proofing",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "679f6ae56bf38e18fc5756929ab92e08614cb95f",
+    "date": "2024-08-20T19:41:39Z",
+    "message": "docs: adding future todos",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "12953ae85790b297f4ea5bb474b82466a5170cf3",
+    "date": "2024-08-20T19:09:13Z",
+    "message": "docs: proofed conclusion",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5e7660f52b6094a9682c902695661589e7fd84af",
+    "date": "2024-08-20T19:06:21Z",
+    "message": "docs: proofed 7th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "edba8382914e213057be5aa4d4737e7d330138f6",
+    "date": "2024-08-20T16:40:26Z",
+    "message": "docs: improved 6th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "55187ba123611cb0c420897ba9fd141f0c3715ff",
+    "date": "2024-08-20T16:25:21Z",
+    "message": "docs: improved 5ht section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "74962e2493a0f782b309e53cb6ba7a919e1b2ba6",
+    "date": "2024-08-20T16:19:15Z",
+    "message": "docs: improve 4th section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1c9b115308b9bd3196a41b23b8a3cd3d9005a565",
+    "date": "2024-08-20T16:13:56Z",
+    "message": "docs: profed 2rd section agina",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e9b84def1b0b3194326395f80e8e6ab3195bd5e9",
+    "date": "2024-08-20T16:11:44Z",
+    "message": "docs: proofed 3rd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "21ee2208142fc5b0a2321b01ce2111f8ee5e9451",
+    "date": "2024-08-20T16:07:07Z",
+    "message": "docs: proofed 2nd section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7e3092d0c4c6589278314509c124fa9fc341d3ba",
+    "date": "2024-08-20T13:37:42Z",
+    "message": "docs: writing excerpt",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "aa3304beed840d66720d12ec8efff4351d067fe4",
+    "date": "2024-08-20T13:35:10Z",
+    "message": "docs: drafting some new article ideas",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8afe98f0b5d0d91194cb53e6b213cb5221585fbd",
+    "date": "2024-08-20T13:32:36Z",
+    "message": "docs: first draft done",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "66fda80961330628cc1cb09d034b5a23200cda07",
+    "date": "2024-08-20T11:13:48Z",
+    "message": "docs: updating article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b4e11dd8905085de64caca717115899b49691fad",
+    "date": "2024-08-20T10:44:15Z",
+    "message": "docs: working on article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8ba2402047d35678583d0c2322ee629c32da747a",
+    "date": "2024-08-18T14:40:55Z",
+    "message": "docs: sketching out the post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "10f11692d0130361624440925c0f71b7887e66c4",
+    "date": "2024-08-18T14:25:20Z",
+    "message": "fix: renaming files for new title",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4ec10c0c226eef4724b3e5179045e7aea4912bf8",
+    "date": "2024-08-18T14:03:04Z",
+    "message": "fix: using handlebar helper for og img path",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a9d7927392fed501b0e65a24ba137f51cf607efd",
+    "date": "2024-08-18T14:02:52Z",
+    "message": "fix: adding handlebar helper for getting ogImg patg",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0fd863ea376f21eef3b67a25fc51f0d964d603c7",
+    "date": "2024-08-18T14:01:29Z",
+    "message": "fix: updating baseUrl to be dynamic",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c336528ab3bfdb394495d6442fd26dcf04d33ebe",
+    "date": "2024-08-18T13:47:43Z",
+    "message": "fix: adding images",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c03392417e7e89d98616b3bd9bc121b14a8600a0",
+    "date": "2024-08-18T13:36:50Z",
+    "message": "docs: document outline",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "aa3dec14ac9436da1e41c44cdda5ab57af9061fc",
+    "date": "2024-08-18T13:32:44Z",
+    "message": "feat: adding new post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5b49a0e0bf6e44d4ecc28e7b68a38027701198c8",
+    "date": "2024-08-18T12:22:03+01:00",
+    "message": "Merge pull request #8 from stuartjnelson/fix/updating-link-color",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b3c39ebc830abd1819d73d02abfe7b2566a22035",
+    "date": "2024-08-18T11:21:05Z",
+    "message": "fix: updating nav to use new interactive color",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4367277333be2377ec35781d76092553bca5e059",
+    "date": "2024-08-18T11:20:52Z",
+    "message": "fix: updating mixins to have new colors",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dd848cc34c39798be1970619e95618085bdca902",
+    "date": "2024-08-18T11:20:42Z",
+    "message": "fix: adding interactive color",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4efb3aed8cb5ff60c293f1b032865d2ecf09c1af",
+    "date": "2024-08-18T10:16:34Z",
+    "message": "docs: updating roadmap",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9a19bf971acdb6d7a3505f53f69fb6b4a7692831",
+    "date": "2024-08-18T11:14:10+01:00",
+    "message": "Merge pull request #7 from stuartjnelson/upgrade-blog-article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9fd515e17093deffa81e47f5dfa5da3a27ce532c",
+    "date": "2024-08-18T10:13:42Z",
+    "message": "fix: finishing new post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a8148af00ccba52cf766e74f3ebcb2b88c5bc94b",
+    "date": "2024-08-18T10:10:51Z",
+    "message": "fix: updating title and excerpt",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2d6a48941cb805d70ebac910064fc47b99c5dee1",
+    "date": "2024-08-18T09:28:21Z",
+    "message": "docs: fonal bit proofed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "187672d9b9690e60e9bdbe211722d0c5c69be974",
+    "date": "2024-08-18T09:22:30Z",
+    "message": "docs: improveing post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6c4ed53743577833e549a6da65b5d3b07d3e7201",
+    "date": "2024-08-18T09:14:30Z",
+    "message": "docs: updating couple more setions",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "62724c5db71a175218e6faa5f5dd99f8825b915c",
+    "date": "2024-08-18T09:06:33Z",
+    "message": "docs: updated another section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "74b9fdc8957df2ed50278d1ce54708dfaf6c7e92",
+    "date": "2024-08-18T09:00:37Z",
+    "message": "docs: prrofing a few of the sections",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "79c6da5bec50ea2fbfa1018b976337ee7bd05715",
+    "date": "2024-08-17T21:22:06Z",
+    "message": "docs: some imrovements",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d284d7d79e30367a3b3130b76549865457b32129",
+    "date": "2024-08-17T21:17:54Z",
+    "message": "fix: makign headings sentance case",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3202672d0c97046d9b920dc342308598666039e9",
+    "date": "2024-08-17T21:13:01Z",
+    "message": "fix: correcting formatting",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "557cbc40a433d12d315a74b2971e106c7ae2888a",
+    "date": "2024-08-17T21:11:34Z",
+    "message": "fix: chatGPTd the grammer and spelling",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7182804fd1d92cb24c4ebc6aa9e55845366ca0ef",
+    "date": "2024-08-17T21:08:56Z",
+    "message": "docs: updating post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "611301f49972e8b3026442daabb5265cfe7c1bd0",
+    "date": "2024-08-17T14:10:31+01:00",
+    "message": "Update upgrading-11ty-handlebars-blog-from-2020.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5e4456cd4c084f4d83155944a1c7416eb487167a",
+    "date": "2024-08-17T13:46:21+01:00",
+    "message": "Update link to tech stack",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ad605f36a9cababf5008be124ac456f4505efae7",
+    "date": "2024-08-17T13:42:55+01:00",
+    "message": "Update README.md with tech stack",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "07d18f6b94a6e6c4a9ebb5ea6b0e851adfb232a2",
+    "date": "2024-08-17T13:35:08+01:00",
+    "message": "Update README.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2e93407b6d5d9da99f0ef954b36dc374563ae250",
+    "date": "2024-08-17T13:27:33+01:00",
+    "message": "Update upgrading-11ty-handlebars-blog-from-2020.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cddf94d22f46291b4bd73ac293d8691994bec127",
+    "date": "2024-08-16T23:05:01+01:00",
+    "message": "Update upgrading-11ty-handlebars-blog-from-2020.md",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3f1bc32cf55d305a365d31adc1f627f29d91b565",
+    "date": "2024-08-16T16:49:41Z",
+    "message": "docs: new task",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "035fd3f9eff0a465c184013c2a630c577e6203ce",
+    "date": "2024-08-16T16:47:53Z",
+    "message": "fix: spacing abve long form h3",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e923ebf63fdf1e9642dd7596f3b511124b1916e6",
+    "date": "2024-08-16T16:47:41Z",
+    "message": "docs: adding more to my article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "196a713519c04bd12c33ef5ffaece966a09adb7f",
+    "date": "2024-08-16T16:47:32Z",
+    "message": "docs: adding more todos",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f7781dd314e4b575e6ab964ce9494c9adc362aa5",
+    "date": "2024-08-16T16:09:44Z",
+    "message": "docs: adding new todo list idea",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "61ceac827d60bee00859c407626c1b1ec3081c87",
+    "date": "2024-08-16T16:09:35Z",
+    "message": "wip: writing article on updating site",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2e379930da982d5cb8fcb51a033050fc9cb20a88",
+    "date": "2024-08-16T16:09:19Z",
+    "message": "fix: updating how did spaceing before h2 in articles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7ce0bd0e47d9513d89f8898e1f1d32d1af34bed4",
+    "date": "2024-08-16T14:48:09Z",
+    "message": "fix: band seperator line color",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "10f1c82a2581457b77de73b1a55b3d0089b4b131",
+    "date": "2024-08-16T15:32:42+01:00",
+    "message": "Merge pull request #6 from stuartjnelson/comments-fixing-meta-desc",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "196dcedd361340256e3c730aa217368b0c40d369",
+    "date": "2024-08-16T14:30:45Z",
+    "message": "fix: to long form copy p",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b9ebfb7fc1e5b47346de4ecee714c6d520121240",
+    "date": "2024-08-16T14:30:34Z",
+    "message": "fix: stlying around utterance comments",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e7f9b2eaff3e06e7c188df8803679bad3534e215",
+    "date": "2024-08-16T13:36:04Z",
+    "message": "fix: adding utterance for comments",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6a376c93e3c281e2fbeeb9b2980b7fab01fd3b0b",
+    "date": "2024-08-16T13:33:16Z",
+    "message": "fix: moving meta tags into meta compoennt",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "39dea04d89a7d690db59493322d09f1e507f278c",
+    "date": "2024-08-16T14:25:45+01:00",
+    "message": "Merge pull request #5 from stuartjnelson/adding-meta-desc-fallback",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0d97da753990d7f2654c6bfb6ac6d048efbafe30",
+    "date": "2024-08-16T13:25:14Z",
+    "message": "docs: updating my todo list",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ffc2ce47a8053b2b82e91f6222c484c049ec4ed8",
+    "date": "2024-08-16T13:13:29Z",
+    "message": "fix: adding better fallback for meta desc",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6b4b3df69959008425783a86c1f09901c2cd6df3",
+    "date": "2024-08-16T14:05:47+01:00",
+    "message": "Merge pull request #4 from stuartjnelson/adding-meta-data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dfd971178a09267ca952b8ff2a4143432479827b",
+    "date": "2024-08-16T12:58:21Z",
+    "message": "fix: making articles nav item relative path",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9ddf6b834eaf399f5290ac1a30b25f9281f5e2d3",
+    "date": "2024-08-16T12:58:10Z",
+    "message": "fix: adding fallbvack og img",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "79c392b36b349f4cb82f47a8e2778ff62908c295",
+    "date": "2024-08-16T12:58:01Z",
+    "message": "content: adding meta data to latest post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8bda1feed1ffabb24a1db27ec59cd8675ab065ab",
+    "date": "2024-08-16T12:57:45Z",
+    "message": "docs: updating todo list",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8b52d8a9082f6125da6e36f86721ea9d47783e3e",
+    "date": "2024-08-16T12:57:16Z",
+    "message": "fix: writing meta data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "065d936709756117687a87f2b7ed7b777ef11e61",
+    "date": "2024-08-16T12:56:55Z",
+    "message": "fix: moving meta data into own component",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "91c58dc4a74d8d03ce5f8a1645aae3352ff56f60",
+    "date": "2024-08-16T12:55:10Z",
+    "message": "fix: adding concat handlebars helper",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e49b9f43f9023dedd8a978455c4de2f0a31e78b8",
+    "date": "2024-08-16T11:08:58Z",
+    "message": "fix: adding meta data tags",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "bc5904689db7f0cca36fdb8486745a9b1a3dba89",
+    "date": "2024-08-16T10:09:55Z",
+    "message": "docs: adding new todo item",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "13907c3658cd7db6c0702ce1f0cf78a03b3d7c9b",
+    "date": "2024-08-16T10:08:21Z",
+    "message": "fix: cleaing up banner and date code",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "343b8865bd91fb64547831bdf9ec8a43f739f71b",
+    "date": "2024-08-16T10:05:25Z",
+    "message": "docs: updating readme",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "27a2b3f685f87ac260acfacd22100d2ccf8359b3",
+    "date": "2024-08-16T10:05:15Z",
+    "message": "fix: adding meta desc to article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8c21ab6d17654161c769c53b0d196bdff2085cd1",
+    "date": "2024-08-16T10:05:02Z",
+    "message": "fix: adding date to banner",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8933d1dfe283d45129a51b5fa9276dbef288e49f",
+    "date": "2024-08-16T10:04:48Z",
+    "message": "fix: correcting date class for banner",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c40c9e9eb92cb990f2790ee5180c5165ff125eca",
+    "date": "2024-08-16T10:04:31Z",
+    "message": "fix: updating paragraph styling for long form copy",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a4b2cddc964bdb5574f893246dcabe521fc92bd2",
+    "date": "2024-08-16T10:04:13Z",
+    "message": "fix: updating layout and stlying for article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b529678a299b3a17464d9a368e0179993820cca3",
+    "date": "2024-08-16T08:34:33Z",
+    "message": "test: tesing meta data in file",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "deaee7cb3038e93ee0bef7fb28d694e8967ab6b2",
+    "date": "2024-08-16T08:34:22Z",
+    "message": "fix: adding better meta data to head template",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "92e8c10f3d4b47623e4fb1818a095c76a39a5f2a",
+    "date": "2024-08-16T08:33:58Z",
+    "message": "fix: updating analytics var",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9277b49a725eba784bbcb67345fdb7f47946cca7",
+    "date": "2024-08-16T08:33:36Z",
+    "message": "fix: adding global data file",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ed57191c4c5f68095df0dcead7571429d198bea6",
+    "date": "2024-08-16T08:33:24Z",
+    "message": "chore: renamkng global data file",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7d9b3fbab5b2814d942bc52aadf82a10611fa6c8",
+    "date": "2024-08-16T08:32:57Z",
+    "message": "fix: adding ternary helper",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "22390f9ace4999f67ab63d9eea9d32e3c37703f0",
+    "date": "2024-08-16T08:14:00Z",
+    "message": "docs: updating readme todo list",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "615b55541aef039643271b13286ff9a1b5912f9f",
+    "date": "2024-08-14T23:10:45+01:00",
+    "message": "Merge pull request #2 from stuartjnelson/adding-analytics",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9b794323d0ce5ef052eda28f06363fc3fa0d46de",
+    "date": "2024-08-14T22:09:14Z",
+    "message": "fix: removing ga id from global data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c4f238fba7b6ccdc9ff3116c322e0513d87e3784",
+    "date": "2024-08-14T22:08:40Z",
+    "message": "fix: intracking .env.local",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "56545d8c43556e47a77396ee47411b8d67249f29",
+    "date": "2024-08-14T22:07:44Z",
+    "message": "fix: adding simple analytics",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b2026e9201a9284701b48681544fa994b2995b04",
+    "date": "2024-08-14T22:06:51Z",
+    "message": "fix: adding global data to expose env vars",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7c69b34720fc906aeebdb0460e3c9391f7e94631",
+    "date": "2024-08-14T22:22:28+01:00",
+    "message": "Merge pull request #1 from stuartjnelson/article-2024-08-13",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b2825dbe21c6cca69a5c2c91af62bcd365f21251",
+    "date": "2024-08-14T21:20:21Z",
+    "message": "fix: removing this aritcle",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "375d9e6a96ecd3b18ef74dc48ad3a31175de4eb2",
+    "date": "2024-08-14T21:20:12Z",
+    "message": "docs: adding todos",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2136e336b99b256ef2e55758511f6f33ee1ef940",
+    "date": "2024-08-14T21:20:02Z",
+    "message": "fix: updating new articles to hide them",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5b50384614e3723a05768bc6c9f958b92f84eddb",
+    "date": "2024-08-14T21:19:37Z",
+    "message": "feat: finishing new article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cda45f0a21aac4fbdff50f843451df72c82e37d4",
+    "date": "2024-08-14T21:19:13Z",
+    "message": "fix: adding draft status functionality to the blog",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d305e194a763744bd30a1936ef649e0239fddcaf",
+    "date": "2024-08-14T17:00:24Z",
+    "message": "style: styling a blockquote",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "96027473b2447d49c908e7f5b07951d2c58e74a0",
+    "date": "2024-08-14T16:47:04Z",
+    "message": "chore: adding 11ty youtube embed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5b58330d0a6dbf89fad62450629090a6d25c3db0",
+    "date": "2024-08-14T14:47:17Z",
+    "message": "docs: writing todo list",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e6b5c49d731defd7feafe7d759ca37e1d5c07ec8",
+    "date": "2024-08-14T14:46:20Z",
+    "message": "fix: adding new blog post",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3070d6565c6fd69bb45cbcc11198dd98be5008ab",
+    "date": "2024-08-14T14:41:56Z",
+    "message": "chore: change recommended on Stackoverflow",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7884517c1165492d670a99ab8db710a77db0bffa",
+    "date": "2024-08-14T14:41:36Z",
+    "message": "fix: correcting template for index",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c56aba9d78c81ad0e48005166ed3bca66a6e1f52",
+    "date": "2024-08-14T14:40:06Z",
+    "message": "chore: bringing back in things I though could be breaking handlebars",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d61b8b7bb6adbc84b23a7e21ba0a247d88e06897",
+    "date": "2024-08-14T14:39:19Z",
+    "message": "hack: getting handlebars working",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1e8d3d73bdeaf9d892d4909b84edb29869449194",
+    "date": "2024-08-13T19:44:26Z",
+    "message": "chore: commenting out netlyf html vlidate plugin",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f9621d7b63eda1307bfca3205de760f918fcc250",
+    "date": "2024-08-13T19:41:44Z",
+    "message": "hack: does this build in netlify",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fd7e0ec6e7a47146a3da753791020741f0e2954e",
+    "date": "2024-08-13T19:26:51Z",
+    "message": "chore: removing old netlify plugin",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "95d4f3271ea1cc15bc211ac19ab27e2b278713d7",
+    "date": "2024-08-13T19:23:45Z",
+    "message": "chore: trying fix build dep issue",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fca496ba3eb3573ea5711cc890206ca7ec558931",
+    "date": "2024-08-13T18:52:23Z",
+    "message": "hack: 11ty debug mode for netlify build",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7ea2023ee2ee32021ca3f97fdbbb9d12d2ab4a81",
+    "date": "2024-08-13T18:40:46Z",
+    "message": "hack: updating package-lock.json",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b8b9378da3d6d016887e41c5fe464de43daa11b5",
+    "date": "2024-08-13T18:37:23Z",
+    "message": "hack: adding nvmrc",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "892c4ae23410104f4f1fefe9943e92d1156c9dac",
+    "date": "2024-08-13T18:33:30Z",
+    "message": "hack: moving 11ty to deps from devDeps",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9936ec35afe155f0e017fe8e680f100ce6c663af",
+    "date": "2024-08-13T18:27:50Z",
+    "message": "hack: netlify 11ty workaround",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c90036a25ef8d294a31850a9933c92dd0d7cbe1b",
+    "date": "2024-08-13T18:18:47Z",
+    "message": "hack: testing if build will run",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "3034c55819a07075ee39a413730da38b40ee3587",
+    "date": "2024-08-13T15:42:35Z",
+    "message": "hack: trying to get this all running",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "17137677dedf139ecfc38b59bc492aba5132ffd3",
+    "date": "2024-08-13T14:55:22Z",
+    "message": "feat: creating new article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ed21f0746b494828af190af905eb5ac52278372f",
+    "date": "2021-01-02T15:20:02Z",
+    "message": "Merge branch 'hotfix/0.4.3' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f26a510f8f9074a554aa807d9c842f1fcade88ff",
+    "date": "2021-01-02T15:19:45Z",
+    "message": "ADding redirect into netlfiy config",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "912366c96352064350ca435d0a5b52e8987932fb",
+    "date": "2021-01-02T13:10:49Z",
+    "message": "Merge branch 'hotfix/0.4.2' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1725e78b59164ce09ebf711de55dbede26d6d4ac",
+    "date": "2021-01-02T13:10:43Z",
+    "message": "Redirect to www",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "03cd3a85ba78dbd9171fb59087bb4edf30ed5255",
+    "date": "2021-01-01T17:56:24Z",
+    "message": "Merge branch 'hotfix/0.4.1' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "149d80b9dcba8e7ce0519dddea38b7e8f4f892a8",
+    "date": "2021-01-01T17:56:19Z",
+    "message": "Improving font loading",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "777263689d29ef12e29c0107850cc82ecf015ca5",
+    "date": "2021-01-01T17:50:43Z",
+    "message": "Merge branch 'release/0.4.0' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9736b3c63645270f83986744105e6b7cf2edb663",
+    "date": "2021-01-01T17:49:40Z",
+    "message": "Cleaing up type scss file",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "88cef761e7ca00396ef448442529e48ea86889bf",
+    "date": "2021-01-01T17:40:24Z",
+    "message": "Hosting fonts locally",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b9fa7d9c22990dda9c036185f066091cb8f8ff8d",
+    "date": "2021-01-01T14:43:36Z",
+    "message": "Merge branch 'hotfix/0.3.1' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6646793b6d9dc03fcdd31caa11dac157e525ba19",
+    "date": "2021-01-01T14:43:36Z",
+    "message": "Merge tag '0.3.1' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "918552d675fad121d90f4401bfe4a490a6ac2735",
+    "date": "2021-01-01T14:43:27Z",
+    "message": "Fixing favicon for all pages",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4a9d73cb119154433ea31c22736586e54cbd0871",
+    "date": "2021-01-01T14:33:01Z",
+    "message": "Merge branch 'release/0.3.0' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7768594ad8555bc1799ce7d69aa4d348fab67a8f",
+    "date": "2021-01-01T14:33:01Z",
+    "message": "Merge tag '0.3.0' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cf35738647ef01ada76706e66cc022357343bed6",
+    "date": "2021-01-01T14:31:55Z",
+    "message": "Fixing favicon",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6bdd38fa29dcdf524b4e70df5a5fe8b865fd4f5b",
+    "date": "2021-01-01T14:23:58Z",
+    "message": "Fixing HTML errors",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5180692fb65042280ce80637e46bd313a74916f4",
+    "date": "2021-01-01T14:23:50Z",
+    "message": "INstalling netlify plugins",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "5aeb35d29c3cb0de37761b60c272eb7f802e5e4d",
+    "date": "2021-01-01T13:30:29Z",
+    "message": "Merge branch 'hotfix/0.2.2' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "c677b242d035022a8f9d2f91b1b987300409ace4",
+    "date": "2021-01-01T13:30:29Z",
+    "message": "Merge tag '0.2.2' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "aaaa7fa498687079c44a7c1cff7b467677a73dd0",
+    "date": "2021-01-01T13:29:13Z",
+    "message": "Correcting link to nav",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ad338ba0a7057869806d86cdaa5ce50805d16d74",
+    "date": "2021-01-01T13:28:42Z",
+    "message": "Tweaking nav styles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "49f6eca4b3a6643e8bf95bf04c5863c2cf96631e",
+    "date": "2021-01-01T13:15:19Z",
+    "message": "Fixing font loading",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "1704cfd5909b9b2c7d441410714c113c0b43dd0a",
+    "date": "2020-12-31T20:08:07Z",
+    "message": "Merge branch 'hotfix/0.2.1' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a05191407b7914b3801eb2d8573b052c001cfe01",
+    "date": "2020-12-31T20:08:07Z",
+    "message": "Merge branch 'main' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "084303a30a0bb235057601354db14cdfa2c68aea",
+    "date": "2020-12-31T20:08:02Z",
+    "message": "Making rss fed plugin normal dep",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "eeaaeab03062f0f453e8dfb6e4e6f01a04f5fdcb",
+    "date": "2020-12-31T19:59:13Z",
+    "message": "Merge branch 'release/0.2.0' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "ec7a6339ccb6b46db632bc6d2a523e7e3ff19e72",
+    "date": "2020-12-31T19:59:13Z",
+    "message": "Merge tag '0.2.0' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "326e5f751bf73afec7db3f2678145823dc8376da",
+    "date": "2020-12-31T19:58:29Z",
+    "message": "Merge branch 'feature/rss-feed' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "aa84b2864c0b86a4fe9e7ed96bb4cacbb3358889",
+    "date": "2020-12-31T19:58:23Z",
+    "message": "Setting up RSS feed",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "51546a0c256e6cdff064c9d71065330275d339f3",
+    "date": "2020-12-31T19:58:17Z",
+    "message": "Removing some old files",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cc9f90edd2cf96fe573bd96d7f056c3b49257fc3",
+    "date": "2020-12-31T19:58:10Z",
+    "message": "Insatlling RSS feed plugin",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "797a83b10d97d2d789a48bd12711fd2fd0b42831",
+    "date": "2020-12-31T19:37:35Z",
+    "message": "Merge branch 'main' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "69709b51491a2442655662e46e22ce9132cf4741",
+    "date": "2020-12-30T12:51:00Z",
+    "message": "Corrintg path to CSS file",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fada798b694f1f8b120d79a12b43ed209866dcf7",
+    "date": "2020-12-30T12:45:16Z",
+    "message": "UPdating build task",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "79a2cc7f93af88fb3c0099d682d7f3fe5c0b4862",
+    "date": "2020-12-30T12:37:53Z",
+    "message": "Removing old dep",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "41d28f4da5d40feaa04f4f63970043fa8e7d41e0",
+    "date": "2020-12-30T12:31:24Z",
+    "message": "Making year dynamic",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b1b4c4a46ea0b33fd762da953074d7aabe19dfac",
+    "date": "2020-12-30T12:31:17Z",
+    "message": "Adding link to css file that will be replaced",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e504a455eab907d7c0ea8b9900d3a37dadc4515e",
+    "date": "2020-12-30T12:31:07Z",
+    "message": "UPdating config for sass",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cf9bfc16dc5137ac5f98edd7f8611e077bce2eb2",
+    "date": "2020-12-30T12:30:30Z",
+    "message": "UPdating gitnigore",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "da6d1ececd4e4d83824fba38939460cef7a46c66",
+    "date": "2020-12-30T12:29:59Z",
+    "message": "Removing old pages",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "2a8e4ae7c73a8428f91208b603d91bbe4b60b293",
+    "date": "2020-12-30T12:29:13Z",
+    "message": "Adding debugging for vscode",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a2b3682aa4b0d9ceee9d1012a531bcb0fc7831a6",
+    "date": "2020-12-29T23:07:44Z",
+    "message": "Merge tag '0.1.0' into develop",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "755ebaa95a3f4932764b6fb029ce1cdc72a131e2",
+    "date": "2020-12-29T23:07:44Z",
+    "message": "Merge branch 'release/0.1.0' into main",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "54d8ea7d63d59e93bea69015335a94a7ff0b0873",
+    "date": "2020-12-29T22:21:02Z",
+    "message": "CEntering img",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a7b882cfa0075d2f26e52fed51edbb8e3abaf7f8",
+    "date": "2020-12-29T22:20:57Z",
+    "message": "Addig css purge & html minify",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7fed5d35c00ad4141c0d05bcf1533b794a96ae1c",
+    "date": "2020-12-29T22:20:32Z",
+    "message": "Adding head partial in",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9dce0bf7a42c1abc3aa04f776f4d75b9c9ff9bdf",
+    "date": "2020-12-29T22:20:21Z",
+    "message": "Creating head partial",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8a6801c1674b9ec04fb8298046f46dff35b27fe8",
+    "date": "2020-12-29T16:12:36Z",
+    "message": "UPdating northerb badger",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "cfae87e1722b02f0ad9f779556a464fcc20d72c8",
+    "date": "2020-12-29T16:12:20Z",
+    "message": "Reversing order of posts",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "360c72c5a98405aae7aa5a2d1297e7a788c8a075",
+    "date": "2020-12-29T16:00:08Z",
+    "message": "Stopping being output as strong",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6a6f93444e7210162e2b814f7e85a4cce6407b8b",
+    "date": "2020-12-29T15:57:01Z",
+    "message": "“Fixing” banner alignment",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "40fd912a15b5d7c542c95ce0ae8b65945b33ed5e",
+    "date": "2020-12-29T15:56:26Z",
+    "message": "Updating articles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "dddc41851b8499e2227f389e3886d7258e4a2663",
+    "date": "2020-12-29T15:44:18Z",
+    "message": "Updating some articles styles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0e03ac0c255eb1cdc8d5624142d437a7025f4c38",
+    "date": "2020-12-29T15:32:37Z",
+    "message": "Fixing HTML validation attirbutes",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "022c51365ac316e57e67de85e3e9e111f0030372",
+    "date": "2020-12-29T15:32:24Z",
+    "message": "Making datetime attr valid HTML",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "491acf2d094c6b47493465da4a8663cc357202d6",
+    "date": "2020-12-29T15:08:40Z",
+    "message": "Adding spacing to be padentaic",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "f5e72664eca2ed1d3ddee94408a6bce3a61b2702",
+    "date": "2020-12-29T15:08:32Z",
+    "message": "WIP adding rest of the articles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d6d461cf1f47dfea8902c87ee223f58e107f970d",
+    "date": "2020-12-29T14:32:06Z",
+    "message": "WIP adding new article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4192fb0c3fce3a868f4764ea8b90a37256554d2b",
+    "date": "2020-12-29T13:36:23Z",
+    "message": "Cleaing up 11ty setup",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e5cf95946b310d4652abab0628968b69256a944b",
+    "date": "2020-12-29T13:28:03Z",
+    "message": "WIP editing markdown options",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a062a769cc33f0342eddf3be4afa22042262e671",
+    "date": "2020-12-29T13:21:12Z",
+    "message": "Sexurity update",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "9b9225cc857d88970f9c62bd01ae1a9e686e9952",
+    "date": "2020-12-29T13:21:07Z",
+    "message": "New markdown packages",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "81af497cf86076c8970f38ec353a3bb5ed5c4859",
+    "date": "2020-12-29T13:20:13Z",
+    "message": "Tewaking styles for long form copy",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "af148bcac3e0baad0c548d9578ca9b55b0b96d72",
+    "date": "2020-12-29T13:01:41Z",
+    "message": "Ignoring all DS_Store files",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0606cd6e968b65cbf84a66db24a005dcbed5256f",
+    "date": "2020-12-28T19:26:12Z",
+    "message": "Adding footer to layouts",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8a2a73c1031d9c52040c7e8f3d09d9645bf168f0",
+    "date": "2020-12-28T19:26:05Z",
+    "message": "ADding nav list component",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d10c9be8219cfd83330a18ecc6e7cbc171e99c5f",
+    "date": "2020-12-28T19:25:54Z",
+    "message": "Adding footer and styles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "04e4a33930ebecbf5d40e08b5a533cd54533dc60",
+    "date": "2020-12-28T19:25:40Z",
+    "message": "UPdating styles for long form secitons",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "6fc8746d5a11585d29e38464d847359c6166d68b",
+    "date": "2020-12-28T19:19:45Z",
+    "message": "OPtimised imgs",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0994c91977a8e3215d6ad566381102a18875daef",
+    "date": "2020-12-28T19:11:47Z",
+    "message": "Fixed issue with first section",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "7ae3ca0c1d869d770762c1c2e441ede77ed1b240",
+    "date": "2020-12-28T18:43:32Z",
+    "message": "Updating spacing around codeblocks",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "a137c2afff0da238b6d9d8958bd3f1e8f0038b20",
+    "date": "2020-12-28T18:40:40Z",
+    "message": "UPdating banner styles",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "b578cee8628599aeeb9d6ae4a10893ac99548215",
+    "date": "2020-12-28T18:36:32Z",
+    "message": "Tweaking heading colours",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "05b56e13ce412710f9d9ec69300c04c5ccd7d118",
+    "date": "2020-12-28T18:29:41Z",
+    "message": "Adding styling for code blocks and renaming article",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "36848b389e955bbe6e8a838500827ef2118e1aa2",
+    "date": "2020-12-28T18:19:03Z",
+    "message": "WIP auto formatting secitons",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fb7ebf2f4c684a90c06b4816b04c8509f2c658b2",
+    "date": "2020-12-28T14:08:50Z",
+    "message": "Tweaking layout for article date",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "e89a53861d37f23122f3d77843a3df44fe1dec4e",
+    "date": "2020-12-28T14:06:00Z",
+    "message": "Updating styles for article link",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "4cd749f16072098422feae275a7de95aa652959c",
+    "date": "2020-12-28T13:55:49Z",
+    "message": "WIP working on articles stlye",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "53ce268d434aeb10138185f26f2f5f515196f09c",
+    "date": "2020-12-28T12:53:17Z",
+    "message": "WIP working on article listing",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "0e6b8630a28883de0c79a741122b075b1d95fcb2",
+    "date": "2020-12-28T12:30:03Z",
+    "message": "WIP getting banner and nav sorted",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "fd234505b34edbee465ec89bf3b0f6eeeb941370",
+    "date": "2020-12-28T09:05:57Z",
+    "message": "Added basic article html",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "42aed3fe310dc2cf5af89c0369299a4131cc3926",
+    "date": "2020-12-28T08:57:26Z",
+    "message": "copied over all sass from site",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "8d93fc2f4089f1fe95cfb4ff2642e02872ced364",
+    "date": "2020-12-28T08:55:13Z",
+    "message": "Setting up basic templates and practice getting data",
+    "author": "Stuart Nelson"
+  },
+  {
+    "hash": "d11747dff88738a246080f8a15ea06d10cecfcd0",
+    "date": "2020-12-27T23:18:58Z",
+    "message": "inital commit",
+    "author": "Stuart Nelson"
+  }
+]
