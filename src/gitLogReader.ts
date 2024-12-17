@@ -8,52 +8,104 @@ export interface CommitLog {
   author: string;
 }
 
-export class GitLogReader {
-  private git: SimpleGit;
-
-  constructor(private repoPath: string) {
-    console.log(repoPath)
-    // Initialize simple-git with the provided repository path
-    this.git = simpleGit(repoPath);
-  }
-
-  /**
-   * Reads the git log and returns an array of commit details.
-   */
-  async readGitLog(): Promise<CommitLog[]> {
-    try {
-      console.log(`Reading Git log from: ${this.repoPath}`);
-      const log = await this.git.log(); 
-
-      const COMMIT_PREFIXES = /^(feat|fix|chore):/;
-
-      return log.all
-        .filter(({message}) => COMMIT_PREFIXES.test(message))
-        .map(({hash, date, message, author_name: author}) => ({
-          hash,
-          date,
-          message,
-          author,
-        }));
-    } catch (error) {
-      console.error('Error reading Git log:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Writes the fetched Git log to a JSON file.
-   * @param outputPath - Path to the output file.
-   * @param logData - Array of commit details.
-   */
-  async writeLogToFile(outputPath: string, logData: CommitLog[]): Promise<void> {
-    try {
-      const content = JSON.stringify(logData, null, 2);
-      await fs.writeFile(outputPath, content, 'utf-8');
-      console.log(`Git log successfully written to ${outputPath}`);
-    } catch (error) {
-      console.error('Error writing Git log to file:', error);
-      throw error;
-    }
-  }
+export interface ReleaseSummary {
+  total: number;
+  major: number;
+  minor: number;
+  patch: number;
+  chore: number;
+  history: Array<{ type: string; hash: string; message: string; date: string; author: string }>;
 }
+
+const COMMIT_PREFIXES = /^(feat|fix|chore|docs|style|refactor|test|perf|build|ci|revert):/;
+
+/**
+ * Reads the git log from a repository.
+ */
+const readGitLog = async (repoPath: string): Promise<CommitLog[]> => {
+  const git: SimpleGit = simpleGit(repoPath);
+
+  try {
+    console.log(`Reading Git log from: ${repoPath}`);
+    const log = await git.log();
+
+    return log.all
+      .filter(({ message }) => COMMIT_PREFIXES.test(message))
+      .map(({ hash, date, message, author_name: author }) => ({
+        hash,
+        date,
+        message,
+        author,
+      }));
+  } catch (error) {
+    console.error('Error reading Git log:', error);
+    throw error;
+  }
+};
+
+/**
+ * Processes commit logs into a release summary.
+ */
+const processReleaseSummary = (commitLogs: CommitLog[]): ReleaseSummary => {
+  const summary: ReleaseSummary = {
+    total: 0,
+    major: 0,
+    minor: 0,
+    patch: 0,
+    chore: 0,
+    history: [],
+  };
+
+  commitLogs.forEach(({ hash, date, message, author }) => {
+    summary.total++;
+
+    if (message.startsWith('feat:')) {
+      summary.major++;
+      summary.history.push({ type: 'major', hash, message, date, author });
+    } else if (message.startsWith('fix:')) {
+      summary.patch++;
+      summary.history.push({ type: 'patch', hash, message, date, author });
+    } else if (message.startsWith('chore:')) {
+      summary.chore++;
+      summary.history.push({ type: 'chore', hash, message, date, author });
+    } else {
+      summary.minor++;
+      summary.history.push({ type: 'minor', hash, message, date, author });
+    }
+  });
+
+  return summary;
+};
+
+/**
+ * Writes release summary data to a JSON file.
+ */
+const writeSummaryToFile = async (outputPath: string, summary: ReleaseSummary): Promise<void> => {
+  try {
+    const content = JSON.stringify(summary, null, 2);
+    await fs.writeFile(outputPath, content, 'utf-8');
+    console.log(`Release summary successfully written to ${outputPath}`);
+  } catch (error) {
+    console.error('Error writing release summary to file:', error);
+    throw error;
+  }
+};
+
+// Main function to orchestrate the process
+export const generateReleaseSummary = async (repoPath: string, outputPath: string): Promise<void> => {
+  try {
+    // Step 1: Read git logs
+    const commitLogs = await readGitLog(repoPath);
+
+    // Step 2: Process release summary
+    const releaseSummary = processReleaseSummary(commitLogs);
+
+    // Step 3: Write summary to file
+    await writeSummaryToFile(outputPath, releaseSummary);
+
+    console.log('Release summary generated successfully.');
+  } catch (error) {
+    console.error('Error generating release summary:', error);
+  }
+};
+
