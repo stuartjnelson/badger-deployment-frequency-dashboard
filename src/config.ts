@@ -1,4 +1,4 @@
-export type commitMessageIdentifierType = 'conventionalCommits' | 'githubMergeRequest' | RegExp
+export type commitMessageIdentifierType = 'conventionalCommits' | 'githubMergeRequest' | 'gitlabMergeRequest' | RegExp
 
 export interface projectConfig {
     storageType: string | 'local' | 'netlify',
@@ -12,5 +12,6 @@ export const config:projectConfig = {
     localFilePath: './release-data.json',             // Local file path
     gitRepoPath: `${import.meta.dirname}/../reposToScan/northern-badger-11ty-blog`,
     commitMessageIdentifierType: 'githubMergeRequest'
+    // commitMessageIdentifierType: 'conventionalCommits'
 };
   

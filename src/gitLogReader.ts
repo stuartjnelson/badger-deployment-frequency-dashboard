@@ -80,10 +80,13 @@ const writeSummaryToFile = async (outputPath: string, summary: ReleaseSummary): 
   }
 };
 
-const getRegexCommitMessageIdentifier = (key: commitMessageIdentifierType) => {
-  const regexMap = {
+const getRegexCommitMessageIdentifier = (key: commitMessageIdentifierType): RegExp => {
+  type StringCommitMessageTypes = Exclude<commitMessageIdentifierType, RegExp>;
+
+  const regexMap: Record<StringCommitMessageTypes, RegExp> = {
     conventionalCommits: /^(feat|fix|chore):/,
-    githubMergeRequest: /^Merge pull request/
+    githubMergeRequest: /^Merge pull request/,
+    gitlabMergeRequest: /^Merge branch '.+?' into '(main|master)'/,
   }
 
   // @TODO: Improve so don't check for type?
