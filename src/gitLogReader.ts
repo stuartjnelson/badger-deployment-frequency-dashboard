@@ -1,5 +1,6 @@
 import simpleGit, { SimpleGit } from 'simple-git';
 import fs from 'fs/promises';
+import { commitMessageIdentifierType, config } from './config';
 
 export interface CommitLog {
   hash: string;
@@ -14,15 +15,13 @@ export interface ReleaseSummary {
   minor: number;
   patch: number;
   chore: number;
-  history: Array<{ type: string; hash: string; message: string; date: string; author: string }>;
+  history: Array<{ type?: string; hash: string; message: string; date: string; author: string }>;
 }
-
-const COMMIT_PREFIXES = /^(feat|fix|chore):/;
 
 /**
  * Reads the git log from a repository.
  */
-const readGitLog = async (repoPath: string): Promise<CommitLog[]> => {
+const readGitLog = async (repoPath: string, messageFilter: RegExp): Promise<CommitLog[]> => {
   const git: SimpleGit = simpleGit(repoPath);
 
   try {
@@ -30,7 +29,7 @@ const readGitLog = async (repoPath: string): Promise<CommitLog[]> => {
     const log = await git.log();
 
     return log.all
-      .filter(({ message }) => COMMIT_PREFIXES.test(message))
+      .filter(({ message }) => messageFilter.test(message))
       .map(({ hash, date, message, author_name: author }) => ({
         hash,
         date,
@@ -44,9 +43,9 @@ const readGitLog = async (repoPath: string): Promise<CommitLog[]> => {
 };
 
 /**
- * Processes commit logs into a release summary.
+ * Processes commit logs into a release summary for conventional commits
  */
-const processReleaseSummary = (commitLogs: CommitLog[]): ReleaseSummary => {
+const processConventionalCommits = (commitLogs: CommitLog[]): ReleaseSummary => {
   return commitLogs.reduce<ReleaseSummary>(
     (summary, { hash, date, message, author }) => {
       summary.total++;
@@ -60,9 +59,11 @@ const processReleaseSummary = (commitLogs: CommitLog[]): ReleaseSummary => {
       } else if (message.startsWith('fix:')) {
         summary.patch++;
         summary.history.push({ type: 'patch', hash, message, date, author });
-      } else {
+      } else if (message.startsWith('chore:')) {
         summary.chore++;
         summary.history.push({ type: 'chore', hash, message, date, author });
+      } else {
+        summary.history.push({ hash, message, date, author });
       }
 
       return summary;
@@ -93,14 +94,26 @@ const writeSummaryToFile = async (outputPath: string, summary: ReleaseSummary): 
   }
 };
 
+const getRegexCommitMessageIdentifier = (key: commitMessageIdentifierType) => {
+  const regexMap = {
+    conventionalCommits: /^(feat|fix|chore):/,
+    githubMergeRequest: /^Merge pull request/
+  }
+
+  // @TODO: Improve so don't check for type?
+  return key instanceof RegExp ? key : regexMap[key]
+}
+
 // Main function to orchestrate the process
 export const generateReleaseSummary = async (repoPath: string, outputPath: string): Promise<void> => {
   try {
+    const commitMessageIdentifierRegex = getRegexCommitMessageIdentifier(config.commitMessageIdentifierType)
+
     // Step 1: Read git logs
-    const commitLogs = await readGitLog(repoPath);
+    const commitLogs = await readGitLog(repoPath, commitMessageIdentifierRegex);
 
     // Step 2: Process release summary
-    const releaseSummary = processReleaseSummary(commitLogs);
+    const releaseSummary = processConventionalCommits(commitLogs);
 
     // Step 3: Write summary to file
     await writeSummaryToFile(outputPath, releaseSummary);
