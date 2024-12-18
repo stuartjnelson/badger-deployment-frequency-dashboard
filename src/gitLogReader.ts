@@ -47,35 +47,37 @@ const readGitLog = async (repoPath: string): Promise<CommitLog[]> => {
  * Processes commit logs into a release summary.
  */
 const processReleaseSummary = (commitLogs: CommitLog[]): ReleaseSummary => {
-  const summary: ReleaseSummary = {
-    total: 0,
-    major: 0,
-    minor: 0,
-    patch: 0,
-    chore: 0,
-    history: [],
-  };
+  return commitLogs.reduce<ReleaseSummary>(
+    (summary, { hash, date, message, author }) => {
+      summary.total++;
 
-  commitLogs.forEach(({ hash, date, message, author }) => {
-    summary.total++;
+      if (message.startsWith('feat:')) {
+        summary.major++;
+        summary.history.push({ type: 'major', hash, message, date, author });
+      } else if (message.startsWith('fix:')) {
+        summary.patch++;
+        summary.history.push({ type: 'patch', hash, message, date, author });
+      } else if (message.startsWith('chore:')) {
+        summary.chore++;
+        summary.history.push({ type: 'chore', hash, message, date, author });
+      } else {
+        summary.minor++;
+        summary.history.push({ type: 'minor', hash, message, date, author });
+      }
 
-    if (message.startsWith('feat:')) {
-      summary.major++;
-      summary.history.push({ type: 'major', hash, message, date, author });
-    } else if (message.startsWith('fix:')) {
-      summary.patch++;
-      summary.history.push({ type: 'patch', hash, message, date, author });
-    } else if (message.startsWith('chore:')) {
-      summary.chore++;
-      summary.history.push({ type: 'chore', hash, message, date, author });
-    } else {
-      summary.minor++;
-      summary.history.push({ type: 'minor', hash, message, date, author });
+      return summary;
+    },
+    {
+      total: 0,
+      major: 0,
+      minor: 0,
+      patch: 0,
+      chore: 0,
+      history: [],
     }
-  });
-
-  return summary;
+  );
 };
+
 
 /**
  * Writes release summary data to a JSON file.
