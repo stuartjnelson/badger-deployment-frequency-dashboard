@@ -17,7 +17,7 @@ export interface ReleaseSummary {
   history: Array<{ type: string; hash: string; message: string; date: string; author: string }>;
 }
 
-const COMMIT_PREFIXES = /^(feat|fix|chore|docs|style|refactor|test|perf|build|ci|revert):/;
+const COMMIT_PREFIXES = /^(feat|fix|chore):/;
 
 /**
  * Reads the git log from a repository.
@@ -51,18 +51,18 @@ const processReleaseSummary = (commitLogs: CommitLog[]): ReleaseSummary => {
     (summary, { hash, date, message, author }) => {
       summary.total++;
 
-      if (message.startsWith('feat:')) {
+      if (message.startsWith('perf:')) {
         summary.major++;
         summary.history.push({ type: 'major', hash, message, date, author });
+      } else if (message.startsWith('feat:')) {
+        summary.minor++;
+        summary.history.push({ type: 'minor', hash, message, date, author });
       } else if (message.startsWith('fix:')) {
         summary.patch++;
         summary.history.push({ type: 'patch', hash, message, date, author });
-      } else if (message.startsWith('chore:')) {
+      } else {
         summary.chore++;
         summary.history.push({ type: 'chore', hash, message, date, author });
-      } else {
-        summary.minor++;
-        summary.history.push({ type: 'minor', hash, message, date, author });
       }
 
       return summary;
