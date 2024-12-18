@@ -1,22 +1,8 @@
 import simpleGit, { SimpleGit } from 'simple-git';
 import fs from 'fs/promises';
 import { commitMessageIdentifierType, config } from './config';
-
-export interface CommitLog {
-  hash: string;
-  date: string;
-  message: string;
-  author: string;
-}
-
-export interface ReleaseSummary {
-  total: number;
-  major: number;
-  minor: number;
-  patch: number;
-  chore: number;
-  history: Array<{ type?: string; hash: string; message: string; date: string; author: string }>;
-}
+import type { CommitLog, ReleaseSummary } from './gitLogReader.types';
+import { consoleLogReleaseSummary } from './gitConsoleLogs';
 
 /**
  * Reads the git log from a repository.
@@ -114,6 +100,8 @@ export const generateReleaseSummary = async (repoPath: string, outputPath: strin
 
     // Step 2: Process release summary
     const releaseSummary = processConventionalCommits(commitLogs);
+
+    consoleLogReleaseSummary(releaseSummary)
 
     // Step 3: Write summary to file
     await writeSummaryToFile(outputPath, releaseSummary);
