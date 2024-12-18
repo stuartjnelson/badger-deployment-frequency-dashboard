@@ -11,5 +11,11 @@ export interface ReleaseSummary {
   minor: number;
   patch: number;
   chore: number;
-  history: Array<{ type?: string; hash: string; message: string; date: string; author: string }>;
+  history: Array<{
+    type?: string;
+    hash: string;
+    message: string;
+    date: string;
+    author: string;
+  }>;
 }
