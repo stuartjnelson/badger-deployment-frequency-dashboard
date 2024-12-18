@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "dev": "tsx src/index.ts",
-    "lint": "eslint src/**/*.ts",
-    "test": "jest",
+    "setup:localRepo": "git clone https://github.com/stuartjnelson/northern-badger-11ty-blog.git reposToScan/northern-badger-11ty-blog",
+    "dev:be": "tsx backend/index.ts",
+    "lint:be": "eslint backend/**/*.ts",
     "clean": "rm -rf dist",
     "prepare": "husky"
   },
