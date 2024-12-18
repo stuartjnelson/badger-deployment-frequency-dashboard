@@ -1,15 +1,11 @@
-import { generateReleaseSummary } from './gitLogReader';
-import path from 'path';
-import { config } from './config';
-
-interface Config {
-  gitRepoPath: string;
-}
+import { generateReleaseSummary } from "./gitLogReader";
+import { config } from "./config";
 
 async function main() {
-  const outputPath = path.resolve(`${import.meta.dirname}/../output.json`);
-
-  return await generateReleaseSummary(config.gitRepoPath, outputPath);
+  return await generateReleaseSummary(
+    config.localRepoToScan,
+    config.jsonFileToWriteTo,
+  );
 }
 
-main().catch(err => console.error('Error:', err));
+main().catch((err) => console.error("Error:", err));
