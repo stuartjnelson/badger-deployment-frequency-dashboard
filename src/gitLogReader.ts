@@ -118,7 +118,7 @@ export const generateReleaseSummary = async (
       commitMessageIdentifierRegex,
     );
 
-    // Step 2: Process release summary
+    // Step 2: Process release summarychmod +x .husky/pre-commit
     const releaseSummary = processConventionalCommits(commitLogs);
 
     consoleLogReleaseSummary(releaseSummary);
@@ -126,7 +126,7 @@ export const generateReleaseSummary = async (
     // Step 3: Write summary to file
     await writeSummaryToFile(jsonFileToWriteTo, releaseSummary);
 
-    console.log('Release summary generated successfully');
+    console.log('Release summary generated successfully.');
   } catch (error) {
     console.error("Error generating release summary:", error);
   }
